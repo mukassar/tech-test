@@ -4,6 +4,7 @@ import React from 'react'
   return (
     <div>Sadik- This is my component
         <input type='text'></input>
+        <button>Submit</button>
     </div>
   )
 }
