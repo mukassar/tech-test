@@ -1,7 +1,11 @@
-import React from 'react'
+import React from 'react';
 
-export const Mukassar1 = () => {
-  return (
-    <div>Mukassar1</div>
-  )
-}
+const Mukassar1 = () => {
+    return (
+        <div>
+            <h1>Latur</h1>
+        </div>
+    );
+};
+
+export default Mukassar1;<h1>Latur</h1>
