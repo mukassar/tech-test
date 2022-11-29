@@ -4,9 +4,10 @@ const Form = () => {
     return (
         <div>
             <label htmlFor="">Email Address</label>
-            <input type="text" />
+            <input type="text" placeholder='Enter Email Id' />
             <label htmlFor="">Password</label>
-            <input type="password" />
+            <input type="password" placeholder='Enter Password'/>
+            <button>Submit</button>
         </div>
     );
 };
